@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""components that manage all of the Places default RestFul API actions """
+"""components that oversee every default RestFul API action for Places" """
 from models.state import State
 from models.city import City
 from models.place import Place
