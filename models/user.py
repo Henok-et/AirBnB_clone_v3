@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" holds  all of the class User"""
+""" maintains class User"""
 import models
 import hashlib
 from models.base_model import BaseModel, Base
