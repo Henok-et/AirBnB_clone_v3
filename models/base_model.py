@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Contains all of the  class BaseModel
+comprises class BaseModel
 """
 
 from datetime import datetime
